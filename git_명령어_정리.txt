@@ -1,0 +1,6 @@
+--- 작업순서 (파일 하나씩 반영할때)
+처음 폴더를 생성 했을시는 폴더 안에 파일이 존재해야 폴더가 생성 된다.
+git status
+git add chart.html
+git commit -m "chartjs 추가"
+git push origin master
